@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "lint": "node ./lint.js"
+  },
+  "dependencies": {
+    "markdownlint": "^0.32.1"
+  }
+}
